@@ -45,33 +45,33 @@
                     <li><a>📑 Información</a>
                         
                         <ul>
-                            <li><a href="reseña.php">Comandos</a></li>
-                            <li><a href="mision.php">Vip</a></li>
-                            <li><a href="gerente.php">Novedades</a></li>
+                            <li><a href="reseña.php">🔔 Comandos</a></li>
+                            <li><a href="mision.php">💎 Vip</a></li>
+                            <li><a href="gerente.php">⏳ Novedades</a></li>
                         </ul>
 
                     </li>       
                     <li><a href="frm.php">❗ Importante</a>
                         
                         <ul>
-                            <li><a href="https://drive.google.com/file/d/1F4pVIRdPDhSzRHWUJgUAi4vvu0v60tuM/view" target=_blank>Términos y Condiciones</a></li>
-                            <li><a href="https://drive.google.com/file/d/0B_e1Q1GYEyFvVEJEM3RFbzlXR28/view" target=_blank>Política de Privacidad</a></li>
+                            <li><a href="https://drive.google.com/file/d/1F4pVIRdPDhSzRHWUJgUAi4vvu0v60tuM/view" target=_blank>🧨 Términos y Condiciones</a></li>
+                            <li><a href="https://drive.google.com/file/d/0B_e1Q1GYEyFvVEJEM3RFbzlXR28/view" target=_blank>⛔ Política de Privacidad</a></li>
                         </ul>
                             
                     </li>
                     <li><a>🚧 Soporte</a>
                         
                         <ul>
-                            <li><a href="https://discord.gg/CM9yAmXPfC" target=_blank>Servidor</a></li>
-                            <li><a href="gerente.php">Reportes</a></li>
-                            <li><a href="directorio.php">Sugerencias</a></li>
+                            <li><a href="https://discord.gg/CM9yAmXPfC" target=_blank>🌎 Servidor</a></li>
+                            <li><a href="gerente.php">📢 Reportes</a></li>
+                            <li><a href="directorio.php">📬 Sugerencias</a></li>
                         </ul>
                             
                     </li>
-                    <li><a href="frm.php">💸 Apóyanos</a>
+                    <li><a href="frm.php">💌 Apóyanos</a>
                         
                         <ul>
-                            <li><a href="" target=_blank>Donaciones</a></li>
+                            <li><a href="" target=_blank>💸 Donaciones</a></li>
                         </ul>
                             
                     </li>
