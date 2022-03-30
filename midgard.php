@@ -40,32 +40,38 @@
         </div>
     </header>
 
-    <div class="loader">
-        <span style="--i:1;"></span>
-        <span style="--i:2;"></span>
-        <span style="--i:3;"></span>
-        <span style="--i:4;"></span>
-        <span style="--i:5;"></span>
-        <span style="--i:6;"></span>
-        <span style="--i:7;"></span>
-        <span style="--i:8;"></span>
-        <span style="--i:9;"></span>
-        <span style="--i:10;"></span>
-    </div>
-
-    <div class="loader">
-        <span style="--i:1;"></span>
-        <span style="--i:2;"></span>
-        <span style="--i:3;"></span>
-        <span style="--i:4;"></span>
-        <span style="--i:5;"></span>
-        <span style="--i:6;"></span>
-        <span style="--i:7;"></span>
-        <span style="--i:8;"></span>
-        <span style="--i:9;"></span>
-        <span style="--i:10;"></span>
-    </div>
-    
+    <table style="border-spacing: 0px;" align="center">
+        <tr>
+            <td>
+                <div class="loader">
+                    <span style="--i:1;"></span>
+                    <span style="--i:2;"></span>
+                    <span style="--i:3;"></span>
+                    <span style="--i:4;"></span>
+                    <span style="--i:5;"></span>
+                    <span style="--i:6;"></span>
+                    <span style="--i:7;"></span>
+                    <span style="--i:8;"></span>
+                    <span style="--i:9;"></span>
+                    <span style="--i:10;"></span>
+                </div>
+            </td>
+            <td>
+                <div class="loader">
+                    <span style="--i:1;"></span>
+                    <span style="--i:2;"></span>
+                    <span style="--i:3;"></span>
+                    <span style="--i:4;"></span>
+                    <span style="--i:5;"></span>
+                    <span style="--i:6;"></span>
+                    <span style="--i:7;"></span>
+                    <span style="--i:8;"></span>
+                    <span style="--i:9;"></span>
+                    <span style="--i:10;"></span>
+                </div>
+            </td>
+        </tr>
+    </table>
     <footer>
         <p>Malta's Bot</p>
         <p>Copyright © 2022</p>
