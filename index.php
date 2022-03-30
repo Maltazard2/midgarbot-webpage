@@ -41,8 +41,8 @@
             <nav id="menu">
             
                 <ul>
-                    <li><a class="actual" href="index.php">Inicio</a></li>
-                    <li><a>Información</a>
+                    <li><a class="actual" href="index.php">🏠 Inicio</a></li>
+                    <li><a>📑 Información</a>
                         
                         <ul>
                             <li><a href="reseña.php">Comandos</a></li>
@@ -51,7 +51,7 @@
                         </ul>
 
                     </li>       
-                    <li><a href="frm.php">Importante</a>
+                    <li><a href="frm.php">❗ Importante</a>
                         
                         <ul>
                             <li><a href="https://drive.google.com/file/d/1F4pVIRdPDhSzRHWUJgUAi4vvu0v60tuM/view" target=_blank>Términos y Condiciones</a></li>
@@ -59,7 +59,7 @@
                         </ul>
                             
                     </li>
-                    <li><a>Soporte</a>
+                    <li><a>🚧 Soporte</a>
                         
                         <ul>
                             <li><a href="https://discord.gg/CM9yAmXPfC" target=_blank>Servidor</a></li>
@@ -68,14 +68,14 @@
                         </ul>
                             
                     </li>
-                    <li><a href="frm.php">Apóyanos</a>
+                    <li><a href="frm.php">💸 Apóyanos</a>
                         
                         <ul>
                             <li><a href="" target=_blank>Donaciones</a></li>
                         </ul>
                             
                     </li>
-                    <li><a href="https://discord.com/api/oauth2/authorize?client_id=904290001196556369&permissions=1619202014423&scope=bot%20applications.commands" target=_blank>Añádeme</a></li>
+                    <li><a href="https://discord.com/api/oauth2/authorize?client_id=904290001196556369&permissions=1619202014423&scope=bot%20applications.commands" target=_blank>➕ Añádeme</a></li>
                        
                 </ul>
             </nav>
