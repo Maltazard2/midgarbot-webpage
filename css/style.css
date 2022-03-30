@@ -136,14 +136,14 @@ header li{
 }
 
 #menu{
-    align-content: right;
+    align-content: center;
 }
 header #menu ul {
  
     list-style:none;
     margin:20;
     padding:0;
-    float: right;
+    float: center;
 }
 
 header #menu ul li {
@@ -164,7 +164,7 @@ header #menu ul a {
 
 header #menu ul li {
  position: relative;
- float:left;
+ float:center;
  margin:0;
  padding:0;
 }
