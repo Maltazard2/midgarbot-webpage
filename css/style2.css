@@ -73,7 +73,7 @@ header li{
 
 body
 {
-    display: block;
+    display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -156,7 +156,7 @@ body
 
 footer{
     padding: 10px;
-    margin-top: 150px;
+    margin-top: 160px;
     color: rgb(84, 156, 223);
     background-color: rgb(5, 5, 5);
     text-align: center;

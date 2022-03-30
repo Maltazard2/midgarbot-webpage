@@ -21,7 +21,7 @@
                         </td>
                         <td align = center> 
                             <a class="actual" href="https://discord.gg/CM9yAmXPfC" target=_blank><h1>MIDGARD BOT</h1></a>
-                            <h4><a href="https://discord.gg/CM9yAmXPfC" target=_blank>Únetenos</a></h4>
+                            <h4><a href="https://discord.gg/CM9yAmXPfC" target=_blank>Únete</a></h4>
                         </td>
                     </tr>
                     <tr>
