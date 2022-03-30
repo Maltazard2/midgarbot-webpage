@@ -73,12 +73,12 @@ header li{
 
 body
 {
-    display: flex;
+    display: table;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background: "img/LOGOBOT.gif";
+    background: #001f25;
 }
 
 .loader

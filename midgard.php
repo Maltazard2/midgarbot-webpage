@@ -11,7 +11,7 @@
 
 </head>
 <body>
-    <!-- <header>
+    <header>
         <div class="contenedor">
             <div id="marca">
                 <table style="border-spacing: 0px;" align="center">
@@ -38,7 +38,7 @@
                 </table>
             </div>
         </div>
-    </header> -->
+    </header>
 
     <table style="border-spacing: 0px;" align="center">
         <tr>
@@ -58,9 +58,9 @@
             </td>
         </tr>
     </table>
-    <!-- <footer>
+    <footer>
         <p>Malta's Bot</p>
         <p>Copyright © 2022</p>
-    </footer> -->
+    </footer>
 </body>
 </html>
