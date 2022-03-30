@@ -62,7 +62,7 @@
                     <li><a>🚧 Soporte</a>
                         
                         <ul>
-                            <li><a href="https://discord.gg/CM9yAmXPfC" target=_blank>🌎 Servidor</a></li>
+                            <li><a href="midgard.php">🌎 Servidor</a></li>
                             <li><a href="index.php">📢 Reportes</a></li>
                             <li><a href="index.php">📬 Sugerencias</a></li>
                         </ul>
