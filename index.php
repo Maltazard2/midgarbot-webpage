@@ -17,7 +17,7 @@
                 <table style="border-spacing: 0px;" align="center">
                     <tr>
                         <td rowspan =3>
-                            <a class="actual" href="index.php"><img src ="img/LOGO.jpg" style="width:30%;border-color: rgb(46, 152, 194);border-style: solid;border-spacing: 10px;"></a>
+                            <a class="actual" href="index.php"><img src ="img/LOGO.jpg" style="width:30%;"></a>
                         </td>
                         <td align = center> 
                             <a class="actual" href="index.php"><h1>MIDGARD BOT</h1></a>

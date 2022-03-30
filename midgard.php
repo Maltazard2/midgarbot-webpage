@@ -17,10 +17,10 @@
                 <table style="border-spacing: 0px;" align="center">
                     <tr>
                         <td rowspan =3>
-                            <a class="actual" href="https://discord.gg/CM9yAmXPfC" target=_blank><img src ="img/LOGOBOT.gif" style="width:70%;border-color: rgb(46, 152, 194);"></a>
+                            <a class="actual" href="index.php"><img src ="img/LOGOBOT.gif" style="width:70%;border-color: rgb(46, 152, 194);"></a>
                         </td>
                         <td align = center> 
-                            <a class="actual" href="https://discord.gg/CM9yAmXPfC" target=_blank><h1>MIDGARD BOT</h1></a>
+                            <a class="actual" href="index.php"><h1>MIDGARD BOT</h1></a>
                             <h4><a href="https://discord.gg/CM9yAmXPfC" target=_blank>Únete</a></h4>
                         </td>
                     </tr>
