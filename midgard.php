@@ -44,11 +44,11 @@
         <tr>
             <td>
                 <div class="loader">
-                    <a class="actual" href="https://discord.gg/CM9yAmXPfC" target=_blank><img src ="img/LOGOBOT.gif" style="width:70%;border-color: rgb(46, 152, 194);"></a>   
                     <span style="--i:1;"></span>
                     <span style="--i:2;"></span>
                     <span style="--i:3;"></span>
                     <span style="--i:4;"></span>
+                    <a class="actual" href="https://discord.gg/CM9yAmXPfC" target=_blank><img src ="img/LOGOBOT.gif" style="width:70%;border-color: rgb(46, 152, 194);"></a>   
                     <span style="--i:5;"></span>
                     <span style="--i:6;"></span>
                     <span style="--i:7;"></span>
