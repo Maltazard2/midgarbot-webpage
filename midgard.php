@@ -58,9 +58,9 @@
             </td>
         </tr>
     </table>
-    <footer>
+    <!-- <footer>
         <p>Malta's Bot</p>
         <p>Copyright © 2022</p>
-    </footer>
+    </footer> -->
 </body>
 </html>
