@@ -73,6 +73,7 @@ header li{
 
 body
 {
+    display: inline;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -82,7 +83,6 @@ body
 
 .loader
 {
-    display: flex;
     position: relative;
     width: 300px;
     height: 300px;
@@ -90,7 +90,6 @@ body
 
 .loader span
 {
-    display: flex;
     position: absolute;
     top: 0;
     left: 0;
@@ -102,7 +101,6 @@ body
 
 .loader span::before
 {
-    display: flex;
     content: '';
     position: absolute;
     top: 0;
@@ -129,7 +127,6 @@ body
 }
 .loader:hover span::before
 {
-    display: flex;
     box-shadow: 0 0 20px #00efff,
     -200px -200px 0 #00efff,
     -200px -200px 20px #00efff,
