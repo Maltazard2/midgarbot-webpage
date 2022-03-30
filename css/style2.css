@@ -73,7 +73,6 @@ header li{
 
 body
 {
-    display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -83,6 +82,7 @@ body
 
 .loader
 {
+    display: flex;
     position: relative;
     width: 300px;
     height: 300px;
