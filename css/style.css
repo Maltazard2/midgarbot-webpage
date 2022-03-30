@@ -136,14 +136,14 @@ header li{
 }
 
 #menu{
-    align-content: right;
+    align-content: center;
 }
 header #menu ul {
  
     list-style:none;
     margin:20;
     padding:0;
-    float: center;
+    float: right;
 }
 
 header #menu ul li {
