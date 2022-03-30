@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,10 +17,10 @@
                 <table style="border-spacing: 0px;" align="center">
                     <tr>
                         <td rowspan =3>
-                            <a class="actual" href="index.html"><img src ="img/midgard.png" style="width:80%;border-color: rgb(46, 152, 194);border-style: solid;border-spacing: 10px;"></a>
+                            <a class="actual" href="index.php"><img src ="img/LOGO.jpg" style="width:50%;border-color: rgb(46, 152, 194);border-style: solid;border-spacing: 10px;"></a>
                         </td>
                         <td> 
-                            <a class="actual" href="index.html"><h1>MIDGARD BOT</h1></a>
+                            <a class="actual" href="index.php"><h1>MIDGARD BOT</h1></a>
                             <h4>Un bot a tu servicio</h4>
                         </td>
                         </tr>
@@ -41,18 +41,17 @@
                     
                 <nav id="menu">
                     <ul>
-                        <li><a class="actual" href="index.html">Inicio</a></li>
-                        <li><a>Nuestro Equipo</a>
+                        <li><a class="actual" href="index.php">Inicio</a></li>
+                        <li><a>Información</a>
                         
                             <ul>
-                                <li><a href="reseña.html">Comandos</a></li>
-                                <li><a href="mision.html">Vip</a></li>
-                                <li><a href="gerente.html">Reportes</a></li>
-                                <li><a href="directorio.html">Sugerencias</a></li>
+                                <li><a href="reseña.php">Comandos</a></li>
+                                <li><a href="mision.php">Vip</a></li>
+                                <li><a href="gerente.php">Novedades</a></li>
                             </ul>
                             
                         </li>
-                        <li><a href="frm.html">Importante</a>
+                        <li><a href="frm.php">Importante</a>
                         
                             <ul>
                                 <li><a href="https://drive.google.com/file/d/1F4pVIRdPDhSzRHWUJgUAi4vvu0v60tuM/view" target=_blank>Terminos y Condiciones</a></li>
@@ -60,14 +59,23 @@
                             </ul>
                             
                         </li>
-                        <li><a href="frm.html">Apóyanos</a>
+                        <li><a>Soporte</a>
                         
                             <ul>
-                                <li><a href="https://www.transparencia.gob.pe/enlaces/pte_transparencia_enlaces.aspx?id_entidad=10277#.Xx5Glp5Kj-t" target=_blank>Donaciones</a></li>
+                                <li><a href="https://discord.gg/CM9yAmXPfC" target=_blank>Servidor</a></li>
+                                <li><a href="gerente.php">Reportes</a></li>
+                                <li><a href="directorio.php">Sugerencias</a></li>
                             </ul>
                             
                         </li>
-                        <li><a href="contacto.html">Contáctanos</a></li>
+                        <li><a href="frm.php">Apóyanos</a>
+                        
+                            <ul>
+                                <li><a href="" target=_blank>Donaciones</a></li>
+                            </ul>
+                            
+                        </li>
+                        <li><a href="https://discord.com/api/oauth2/authorize?client_id=904290001196556369&permissions=1619202014423&scope=bot%20applications.commands" target=_blank>Añádeme</a></li>
                        
 
                     </ul>
@@ -278,7 +286,8 @@
         <span></span>
         <span></span>
     </section>
-    <section id ="contacto">
+
+    <!-- <section id ="contacto">
         
        <p style="font-size: 30px;"><b>Contacto:</b><br></p>
        <a>
@@ -313,7 +322,8 @@
         </ul>
         
     </section>
-   
+    -->
+    
     <footer>
         <p>Malta's Bot</p>
         <p>Copyright © 2022</p>

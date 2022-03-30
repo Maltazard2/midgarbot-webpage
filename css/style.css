@@ -196,7 +196,7 @@ header #menu ul ul a {
 header #menu ul li:hover > ul {
  display:block;
 }
-
+/* 
 #contacto{
     margin-top: 50px;
     font-size: 20px;
@@ -206,7 +206,7 @@ header #menu ul li:hover > ul {
     background-color: rgba(155,185,237,0.9);
     border-top: 5px solid blue;
     border-bottom: 5px solid blue;
-}
+} */
 footer{
     padding: 10px;
     margin-top: 0px;
