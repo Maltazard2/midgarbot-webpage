@@ -141,9 +141,9 @@ header li{
 header #menu ul {
  
     list-style:none;
-    margin:20;
+    margin:100;
     padding:0;
-    float: right;
+    float: center;
 }
 
 header #menu ul li {
