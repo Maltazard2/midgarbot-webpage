@@ -12,7 +12,10 @@
 </head>
 <body>
 
-    <table style="border: 10px ;border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
+    <table style="border: 2px ;border-spacing: 0px;border-color: black;border-style: solid;border-radius: 20px;" align="center" border = 0 align = center width = 50% height = 50% cellpadding = 10 cellspacing = 10>
+        
+        <caption><b><i>Diversión</i></b></caption>
+        
         <tr>
             <td>
                 <p align="center">Nombre</p>

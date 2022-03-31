@@ -63,7 +63,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#b337a2;">
-                            <a href="mod.php" target=centro>
+                            <a href="reacción.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="rocket"></ion-icon>
                                 </span>

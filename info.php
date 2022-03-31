@@ -13,9 +13,9 @@
 <body>
 
 <center>
-    <table style="border: 2px ;border-spacing: 0px;border-color: black;border-style: solid;border-radius: 20px;" align="center" border = 1 align = center width = 50% height = 50% cellpadding = 10 cellspacing = 10>
+    <table style="border: 2px ;border-spacing: 0px;border-color: black;border-style: solid;border-radius: 20px;" align="center" border = 0 align = center width = 50% height = 50% cellpadding = 10 cellspacing = 10>
         
-        <caption><b>Información</b></caption>
+        <caption><b><i>Información</i></b></caption>
          
         <tr>
             <td>
