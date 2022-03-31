@@ -31,7 +31,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#6f7a77;">
-                            <a href="#">
+                            <a href="util.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="construct"></ion-icon>
                                 </span>
