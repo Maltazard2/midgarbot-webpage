@@ -14,13 +14,8 @@
 
 <center>
     <table width = 50% height = 50% > 
-        <caption style="--clr:#ff1302;"><b><i>Comandos Exclusivos</i></b></caption>
+        <caption style="--clr:#ff1302;"><b><i>NSFW</i></b></caption>
         
-        <tr>
-            <td>
-                <p align="center">NSFW</p>
-            </td>
-        </tr>
         <tr>
             <td>
                 <p align="center">boobs</p>

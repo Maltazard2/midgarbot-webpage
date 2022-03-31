@@ -7,10 +7,10 @@
     <meta name="description" content="Página Web del Bot Midgard">
     <meta name="keywords" content="midgard, maltabot, malta, midgardbot">
     <meta name="authors" content=" Maltazard">
-    <link rel="stylesheet" type="text/css" href="css/stylecontent.css">
+    <link rel="stylesheet" type="text/css" href="css/styleidk.css">
 
 </head>
-<body>
+<body background="img/idk.png">
 
     <center>
     <table width = 50% height = 50% >

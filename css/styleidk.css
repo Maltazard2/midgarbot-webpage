@@ -1,0 +1,25 @@
+*
+{
+    padding: 0px;
+    margin: 5px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    border: #000 1px solid;
+    border-collapse: collapse;
+    border-spacing: 100px;
+    border-radius: 20px;
+}
+caption
+{ 
+    background: var(--clr); 
+    border-radius: 20px;
+}

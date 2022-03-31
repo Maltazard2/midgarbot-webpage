@@ -15,7 +15,7 @@
 <center>
 
     <table width = 50% height = 50% > 
-        <caption style="--clr:#070707;"><b><i>Moderación</i></b></caption>
+        <caption style="--clr:#242286;"><b><i>Moderación</i></b></caption>
         
         <tr>
             <td>
