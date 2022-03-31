@@ -14,7 +14,7 @@
 
 <center>
     <table width = 50% height = 50% > 
-        <caption style="--clr:#c07116;"><b><i>Comandos exclusivos</i></b></caption>
+        <caption style="--clr:#c07116;"><b><i>💎 Comandos exclusivos 💎</i></b></caption>
         
         <tr>
             <td>

@@ -7,7 +7,7 @@
     <meta name="description" content="Página Web del Bot Midgard">
     <meta name="keywords" content="midgard, maltabot, malta, midgardbot">
     <meta name="authors" content=" Maltazard">
-    <link rel="stylesheet" type="text/css" href="css/stylecomandos.css">
+    <link rel="stylesheet" type="text/css" href="css/stylecomandosvip.css">
 
 </head>
 <body>

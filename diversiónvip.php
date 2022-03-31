@@ -14,7 +14,7 @@
 
 <center>
     <table width = 50% height = 50% > 
-        <caption style="--clr:#c4bb62;"><b><i>Diversión</i></b></caption>
+        <caption style="--clr:#c4bb62;"><b><i>💎 Diversión 💎</i></b></caption>
         
         <tr>
             <td>

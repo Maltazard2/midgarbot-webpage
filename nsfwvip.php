@@ -14,7 +14,7 @@
 
 <center>
     <table width = 50% height = 50% > 
-        <caption style="--clr:#ff1302;"><b><i>NSFW</i></b></caption>
+        <caption style="--clr:#ff1302;"><b><i>💎 NSFW 💎</i></b></caption>
         
         <tr>
             <td>
