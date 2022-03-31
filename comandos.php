@@ -39,7 +39,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#070707;">
-                            <a href="#">
+                            <a href="mod.php">
                                 <span class="icon">
                                     <ion-icon name="hammer"></ion-icon>
                                 </span>

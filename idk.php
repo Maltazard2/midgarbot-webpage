@@ -12,10 +12,12 @@
 </head>
 <body align= "center">
 
-    <table style="align: center; border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
+    <table style="align: center; border-spacing: 50px;" align="center">
         <tr>
             <td>
-                <p align="center">Bienvenido al menú de mis comandos. P.d: chupesta</p>
+                <p align="center">Bienvenido al menú de mis comandos.</p>
+                <p align="center">Recuerda que estos comandos están disponibles para todos los usuarios.</p>
+                <p align="center">Si tienes alguna duda, queja o sugerencia, no dudes en contactarnos.</p>
             </td>
         </tr>
     </table> 
