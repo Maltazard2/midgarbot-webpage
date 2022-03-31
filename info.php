@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <table style="border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
+    <table style="border: 10px ;border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
         <tr>
             <td>
                 <p align="center">Nombre</p>
@@ -31,7 +31,7 @@
             <td>
                 <p align="center">Comprueba la latencia del bot y de tus mensajes.</p>
             </td>
-            <td>
+            <td rowspan = 3>
                 <p align="center">@everyone</p>
             </td>
         </tr>
@@ -42,9 +42,6 @@
             <td>
                 <p align="center">Muestra la info y estado del bot.</p>
             </td>
-            <td>
-                <p align="center">@everyone</p>
-            </td>
         </tr>
         <tr>
             <td>
@@ -52,9 +49,6 @@
             </td>
             <td>
                 <p align="center">Muestra información del servidor.</p>
-            </td>
-            <td>
-                <p align="center">@everyone</p>
             </td>
         </tr>
     </table> 

@@ -1,9 +1,9 @@
 
-<frameset rows = 30%,60%,10%>
+<frameset rows = 30%,65%,5%>
 
     <frame name = "superior" src = "header.php" noresize scrolling = auto>
     
-    <frameset cols = 20%,80%>
+    <frameset cols = 30%,70%>
 
         <frame name = izquierda src = "comandos.php" noresize scrolling = auto>
         <frame name = centro src = "idk.php" noresize scrolling = auto>
