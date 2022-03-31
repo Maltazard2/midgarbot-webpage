@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/stylecomandos.css">
 
 </head>
-<body>
+<body align= "center">
 
     <table style="border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
         <tr>
