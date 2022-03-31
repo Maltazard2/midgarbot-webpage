@@ -13,7 +13,7 @@
 <body align= "center">
 
     <center>
-    <table border = 1 width = 50% height = 50% align = center bordercolor = black cellpadding = 10 cellspacing = 0>
+    <table border = 1 align = center bordercolor = black cellpadding = 10 cellspacing = 0 valign = center>
 
        <tr align = center bgcolor = gray>
             
