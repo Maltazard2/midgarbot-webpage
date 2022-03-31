@@ -17,7 +17,7 @@
                 <table style="border-spacing: 0px;" align="center">
                     <tr>
                         <td rowspan =2>
-                            <a class="actual" href="https://midgardbot-web.herokuapp.com/index.php" target=framename><img src ="img/LOGOBOT.gif" style="width:70%;border-color: rgb(46, 152, 194);"></a>
+                            <a class="actual" href="https://midgardbot-web.herokuapp.com/index.php" target=_parent><img src ="img/LOGOBOT.gif" style="width:70%;border-color: rgb(46, 152, 194);"></a>
                         </td>
                         <td align = center> 
                             <a class="actual" href="https://midgardbot-web.herokuapp.com/index.php" target=_parent><h1>MIDGARD BOT</h1></a>

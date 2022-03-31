@@ -18,7 +18,8 @@
             
             <td align="center">
                 <p align="center">Bienvenido al menú de mis comandos.</p>
-                <p align="center">Recuerda que estos comandos están disponibles para todos los usuarios.</p>
+                <p align="center">Recuerda que la mayoría de estos comandos están disponibles para todos los usuarios.</p>
+                <p align="center">No olvides revisar nuestros comandos solo para miembros VIP.</p>
                 <p align="center">Si tienes alguna duda, queja o sugerencia, no dudes en contactarnos.</p>
             </td>
 
