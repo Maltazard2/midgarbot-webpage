@@ -12,7 +12,7 @@
 </head>
 <body align= "center">
 
-    <table style="border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
+    <table style="align: center; border-spacing: 50px;border-color: black;border-style: solid;border-radius: 20px;" align="center">
         <tr>
             <td>
                 <p align="center">Bienvenido al menú de mis comandos. P.d: chupesta</p>

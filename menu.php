@@ -1,5 +1,5 @@
 
-<frameset rows = 30%,50%,20%>
+<frameset rows = 30%,60%,10%>
 
     <frame name = "superior" src = "header.php" noresize scrolling = auto>
     
