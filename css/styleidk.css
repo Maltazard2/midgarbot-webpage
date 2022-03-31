@@ -10,16 +10,12 @@ body
     display: flexbox;
     justify-content: center;
     align-items: center;
+    margin-left: -150px;
 }
 
 td {
     border: #000 1px solid;
     border-collapse: collapse;
     border-spacing: 100px;
-    border-radius: 20px;
-}
-caption
-{ 
-    background: var(--clr); 
     border-radius: 20px;
 }

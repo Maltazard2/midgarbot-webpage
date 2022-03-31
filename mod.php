@@ -19,13 +19,13 @@
         
         <tr>
             <td>
-                <p align="center">Nombre</p>
+                <p align="center"><b><i>Nombre</i></b></p>
             </td>
             <td>
-                <p align="center">Descripción</p>
+                <p align="center"><b><i>Descripción</i></b></p>
             </td>
             <td>
-                <p align="center">Permisos</p>
+                <p align="center"><b><i>Permisos</i></b></p>
             </td>
         </tr>
         <tr>
@@ -33,7 +33,7 @@
                 <p align="center">role</p>
             </td>
             <td>
-                <p align="center">Muestra información de un rol mencionado.</p>
+                <p align="center">🛑Muestra información de un rol mencionado.</p>
             </td>
             <td rowspan = 2>
                 <p align="center">@everyone</p>
@@ -44,7 +44,7 @@
                 <p align="center">roleid</p>
             </td>
             <td>
-                <p align="center">Muestra información de un rol por id.</p>
+                <p align="center">🛑 Muestra información de un rol por id.</p>
             </td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@
                 <p align="center">lock</p>
             </td>
             <td>
-                <p align="center">Bloquea un canal del servidor.</p>
+                <p align="center">🔐 Bloquea un canal del servidor.</p>
             </td>
             <td rowspan = 2>
                 <p align="center">Gestionar Canales</p>
@@ -63,7 +63,7 @@
                 <p align="center">unlock</p>
             </td>
             <td>
-                <p align="center">Desbloquea un canal del servidor.</p>
+                <p align="center">🔓 Desbloquea un canal del servidor.</p>
             </td>
         </tr>
         <tr>
@@ -71,7 +71,7 @@
                 <p align="center">clear</p>
             </td>
             <td>
-                <p align="center">Elimina mensajes de un canal.</p>
+                <p align="center">🧹 Elimina mensajes de un canal.</p>
             </td>
             <td>
                 <p align="center">Gestionar Mensajes</p>

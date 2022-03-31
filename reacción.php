@@ -18,13 +18,13 @@
         
         <tr>
             <td>
-                <p align="center">Nombre</p>
+                <p align="center"><b><i>Nombre</i></b></p>
             </td>
             <td>
-                <p align="center">Descripción</p>
+                <p align="center"><b><i>Descripción</i></b></p>
             </td>
             <td>
-                <p align="center">Permisos</p>
+                <p align="center"><b><i>Permisos</i></b></p>
             </td>
         </tr>
         <tr>
@@ -32,7 +32,7 @@
                 <p align="center">hi</p>
             </td>
             <td>
-                <p align="center">Saluda a alguien o a todos.</p>
+                <p align="center">👋 Saluda a alguien o a todos.</p>
             </td>
             <td rowspan = 30>
                 <p align="center">@everyone</p>
@@ -43,7 +43,7 @@
                 <p align="center">hug</p>
             </td>
             <td>
-                <p align="center">Abraza a alguien o a ti mismo.</p>
+                <p align="center">🤗 Abraza a alguien o a ti mismo.</p>
             </td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@
                 <p align="center">kiss</p>
             </td>
             <td>
-                <p align="center">Besa a un usuario.</p>
+                <p align="center">😘 Besa a un usuario.</p>
             </td>
         </tr>
         <tr>
@@ -59,7 +59,7 @@
                 <p align="center">kless</p>
             </td>
             <td>
-                <p align="center">Beso entre mujeres.</p>
+                <p align="center">👩‍❤️‍👩 Beso entre mujeres.</p>
             </td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@
                 <p align="center">kgay</p>
             </td>
             <td>
-                <p align="center">Beso entre hombres.</p>
+                <p align="center">👨‍❤️‍💋‍👨 Beso entre hombres.</p>
             </td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@
                 <p align="center">happy</p>
             </td>
             <td>
-                <p align="center">Mood Feliz.</p>
+                <p align="center">😀 Mood Feliz.</p>
             </td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@
                 <p align="center">bored</p>
             </td>
             <td>
-                <p align="center">Mood Aburrido.</p>
+                <p align="center">🥱 Mood Aburrido.</p>
             </td>
         </tr>
         <tr>
@@ -91,7 +91,7 @@
                 <p align="center">sleep</p>
             </td>
             <td>
-                <p align="center">¿Ya tienes sueño?</p>
+                <p align="center">😴 ¿Ya tienes sueño?</p>
             </td>
         </tr>
         <tr>
@@ -99,7 +99,7 @@
                 <p align="center">dance</p>
             </td>
             <td>
-                <p align="center">Baila solo o acompañado.</p>
+                <p align="center">💃 Baila solo o acompañado.</p>
             </td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@
                 <p align="center">blush</p>
             </td>
             <td>
-                <p align="center">Sonrojad@ de nuevo?.</p>
+                <p align="center">😳 Sonrojad@ de nuevo?.</p>
             </td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@
                 <p align="center">confused</p>
             </td>
             <td>
-                <p align="center">Confundido Potter?</p>
+                <p align="center">😕 Confundido Potter?</p>
             </td>
         </tr>
         <tr>
@@ -123,7 +123,7 @@
                 <p align="center">lick</p>
             </td>
             <td>
-                <p align="center">Dale una lamida a alguien.</p>
+                <p align="center">😜 Dale una lamida a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -131,7 +131,7 @@
                 <p align="center">cuddle</p>
             </td>
             <td>
-                <p align="center">Acurrúcate con alguien.</p>
+                <p align="center">🥰 Acurrúcate con alguien.</p>
             </td>
         </tr>
         <tr>
@@ -139,7 +139,7 @@
                 <p align="center">feed</p>
             </td>
             <td>
-                <p align="center">Dale de comer a alguien.</p>
+                <p align="center">😋 Dale de comer a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -147,7 +147,7 @@
                 <p align="center">pat</p>
             </td>
             <td>
-                <p align="center">Acaricia a alguien.</p>
+                <p align="center">🤩 Acaricia a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -155,7 +155,7 @@
                 <p align="center">rep</p>
             </td>
             <td>
-                <p align="center">Da un punto de carisma.</p>
+                <p align="center">🧐 Da un punto de carisma.</p>
             </td>
         </tr>
         <tr>
@@ -163,7 +163,7 @@
                 <p align="center">sad</p>
             </td>
             <td>
-                <p align="center">Mood Sad.</p>
+                <p align="center">😢 Mood Sad.</p>
             </td>
         </tr>
         <tr>
@@ -171,7 +171,7 @@
                 <p align="center">cry</p>
             </td>
             <td>
-                <p align="center">Mood Sad 2.0.</p>
+                <p align="center">😭 Mood Sad 2.0.</p>
             </td>
         </tr>
         <tr>
@@ -179,7 +179,7 @@
                 <p align="center">clorox</p>
             </td>
             <td>
-                <p align="center">¿Se te anoja?</p>
+                <p align="center">🤯 ¿Se te anoja?</p>
             </td>
         </tr>
         <tr>
@@ -187,7 +187,7 @@
                 <p align="center">suicide</p>
             </td>
             <td>
-                <p align="center">Hacer la automurision.</p>
+                <p align="center">💀 Hacer la automurision.</p>
             </td>
         </tr>
         <tr>
@@ -195,7 +195,7 @@
                 <p align="center">sape</p>
             </td>
             <td>
-                <p align="center">Dale un sape a alguien.</p>
+                <p align="center">🤪 Dale un sape a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -203,7 +203,7 @@
                 <p align="center">bite</p>
             </td>
             <td>
-                <p align="center">Muerde a alguien.</p>
+                <p align="center">🧛‍♀️ Muerde a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -211,7 +211,7 @@
                 <p align="center">poke</p>
             </td>
             <td>
-                <p align="center">Molesta a alguien.</p>
+                <p align="center">😆 Molesta a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -219,7 +219,7 @@
                 <p align="center">punch</p>
             </td>
             <td>
-                <p align="center">Tira un golpe a alguien.</p>
+                <p align="center">👊 Tira un golpe a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -227,7 +227,7 @@
                 <p align="center">kickbutt</p>
             </td>
             <td>
-                <p align="center">Dale una patada a alguien.</p>
+                <p align="center">🦶 Dale una patada a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -235,7 +235,7 @@
                 <p align="center">Spank</p>
             </td>
             <td>
-                <p align="center">Nalguea a alguien.</p>
+                <p align="center">🍑 Nalguea a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -243,7 +243,7 @@
                 <p align="center">slap</p>
             </td>
             <td>
-                <p align="center">Abofetea a alguien.</p>
+                <p align="center">😒 Abofetea a alguien.</p>
             </td>
         </tr>
         <tr>
@@ -251,7 +251,7 @@
                 <p align="center">kill</p>
             </td>
             <td>
-                <p align="center">Mata a un usuario.</p>
+                <p align="center">💀 Mata a un usuario.</p>
             </td>
         </tr>
         <tr>
@@ -259,7 +259,7 @@
                 <p align="center">marry</p>
             </td>
             <td>
-                <p align="center">Cásate con alguien.</p>
+                <p align="center">💍 Cásate con alguien.</p>
             </td>
         </tr>
         <tr>
@@ -267,7 +267,7 @@
                 <p align="center">divorce</p>
             </td>
             <td>
-                <p align="center">Divórciate de un usuario</p>
+                <p align="center">💔 Divórciate de un usuario</p>
             </td>
         </tr>
     </table> 

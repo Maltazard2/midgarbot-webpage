@@ -18,13 +18,13 @@
         
         <tr>
             <td>
-                <p align="center">Nombre</p>
+                <p align="center"><b><i>Nombre</i></b></p>
             </td>
             <td>
-                <p align="center">Descripción</p>
+                <p align="center"><b><i>Descripción</i></b></p>
             </td>
             <td>
-                <p align="center">Permisos</p>
+                <p align="center"><b><i>Permisos</i></b></p>
             </td>
         </tr>
         <tr>
@@ -32,7 +32,7 @@
                 <p align="center">perfil</p>
             </td>
             <td>
-                <p align="center">Muestra tu perfil o el de un usuario.</p>
+                <p align="center">⭐ Muestra tu perfil o el de un usuario.</p>
             </td>
             <td rowspan = 13>
                 <p align="center">@everyone</p>
@@ -43,7 +43,7 @@
                 <p align="center">top</p>
             </td>
             <td>
-                <p align="center">Muestra el top de Economía y Stats.</p>
+                <p align="center">📊 Muestra el top de Economía y Stats.</p>
             </td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@
                 <p align="center">shop</p>
             </td>
             <td>
-                <p align="center">Muestra la tienda del Bot en el servidor.</p>
+                <p align="center">🏪 Muestra la tienda del Bot en el servidor.</p>
             </td>
         </tr>
         <tr>
@@ -59,23 +59,23 @@
                 <p align="center">buy</p>
             </td>
             <td>
-                <p align="center">Compra un item de la tienda.</p>
+                <p align="center">🛒 Compra un item de la tienda.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">bal | balance</p>
+                <p align="center">balance</p>
             </td>
             <td>
-                <p align="center">Mira tu balance o el de un usuario en el servidor.</p>
+                <p align="center">👛 Mira tu balance o el de un usuario en el servidor.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">work | w</p>
+                <p align="center">work</p>
             </td>
             <td>
-                <p align="center">Trabaja para obtener coins.</p>
+                <p align="center">🧰 Trabaja para obtener coins.</p>
             </td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@
                 <p align="center">crime</p>
             </td>
             <td>
-                <p align="center">Ejecuta un crimen.</p>
+                <p align="center">💢Ejecuta un crimen.</p>
             </td>
         </tr>
         <tr>
@@ -91,7 +91,7 @@
                 <p align="center">rob</p>
             </td>
             <td>
-                <p align="center">Roba a un miembro mencionado.</p>
+                <p align="center">🏴 Roba algunas coins de cualquier miembro del servidor.</p>
             </td>
         </tr>
         <tr>
@@ -99,7 +99,7 @@
                 <p align="center">dep</p>
             </td>
             <td>
-                <p align="center">Deposita tu dinero en el banco.</p>
+                <p align="center">🏦 Deposita tu dinero en el banco.</p>
             </td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@
                 <p align="center">with</p>
             </td>
             <td>
-                <p align="center">Retira tu dinero del banco.</p>
+                <p align="center">🏧 Retira tu dinero del banco.</p>
             </td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@
                 <p align="center">daily</p>
             </td>
             <td>
-                <p align="center">Reclama tu recompensa diaria.</p>
+                <p align="center">🏆 Reclama tu recompensa diaria por utilizar mis comandos.</p>
             </td>
         </tr>
         <tr>
@@ -123,7 +123,7 @@
                 <p align="center">cock-fight | cf</p>
             </td>
             <td>
-                <p align="center">Apuesta en las peleas de pollos.</p>
+                <p align="center">🐤 Apuesta en las peleas de pollos.</p>
             </td>
         </tr>
         <tr>
@@ -131,7 +131,7 @@
                 <p align="center">slot | slots</p>
             </td>
             <td>
-                <p align="center">Apuesta en el tragamonedas.</p>
+                <p align="center">🎰 Apuesta en el tragamonedas y gana.</p>
             </td>
         </tr>
     </table> 

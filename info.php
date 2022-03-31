@@ -19,13 +19,13 @@
          
         <tr>
             <td>
-                <p align="center">Nombre</p>
+                <p align="center"><b><i>Nombre</i></b></p>
             </td>
             <td>
-                <p align="center">Descripción</p>
+                <p align="center"><b><i>Descripción</i></b></p>
             </td>
             <td>
-                <p align="center">Permisos</p>
+                <p align="center"><b><i>Permisos</i></b></p>
             </td>
         </tr>
         <tr>
@@ -33,7 +33,7 @@
                 <p align="center">ping</p>
             </td>
             <td>
-                <p align="center">Comprueba la latencia del bot y de tus mensajes.</p>
+                <p align="center">🏓 Comprueba la latencia del bot y de tus mensajes.</p>
             </td>
             <td rowspan = 3>
                 <p align="center">@everyone</p>
@@ -44,7 +44,7 @@
                 <p align="center">stats</p>
             </td>
             <td>
-                <p align="center">Muestra la info y estado del bot.</p>
+                <p align="center">📊 Muestra la info y estado del bot.</p>
             </td>
         </tr>
         <tr>
@@ -52,7 +52,23 @@
                 <p align="center">server</p>
             </td>
             <td>
-                <p align="center">Muestra información del servidor.</p>
+                <p align="center">🌎 Muestra información del servidor.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">report</p>
+            </td>
+            <td>
+                <p align="center">🔴 Reporta un bug o falla del bot.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">suggestion</p>
+            </td>
+            <td>
+                <p align="center">🟡 Envía una sugerencia para mejorar el bot.</p>
             </td>
         </tr>
     </table> 

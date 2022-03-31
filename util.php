@@ -17,14 +17,14 @@
         <caption style="--clr:#6f7a77;"><b><i>Utilidad</i></b></caption>
         
         <tr>
-            <td>
-                <p align="center">Nombre</p>
+        <td>
+                <p align="center"><b><i>Nombre</i></b></p>
             </td>
             <td>
-                <p align="center">Descripción</p>
+                <p align="center"><b><i>Descripción</i></b></p>
             </td>
             <td>
-                <p align="center">Permisos</p>
+                <p align="center"><b><i>Permisos</i></b></p>
             </td>
         </tr>
         <tr>
@@ -32,7 +32,7 @@
                 <p align="center">user</p>
             </td>
             <td>
-                <p align="center">Muestra información sobre un usuario mencionado.</p>
+                <p align="center">🕵️‍♂️ Muestra información sobre un usuario mencionado.</p>
             </td>
             <td rowspan = 10>
                 <p align="center">@everyone</p>
@@ -43,7 +43,7 @@
                 <p align="center">avatar</p>
             </td>
             <td>
-                <p align="center">Muestra el avatar de un usuario.</p>
+                <p align="center">🔎 Muestra el avatar de un usuario.</p>
             </td>
         </tr>
         <tr>
@@ -51,23 +51,23 @@
                 <p align="center">banner</p>
             </td>
             <td>
-                <p align="center">Muestra el banner de un usuario.</p>
+                <p align="center">📟 Muestra el banner de un usuario.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">welcome | wlc</p>
+                <p align="center">welcome</p>
             </td>
             <td>
-                <p align="center">Muestra un embed de bienvenida.</p>
+                <p align="center">🤞 Muestra un embed de bienvenida.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">remindme | rm</p>
+                <p align="center">remindme</p>
             </td>
             <td>
-                <p align="center">Establece un recordatorio.</p>
+                <p align="center">⏰ Establece un recordatorio.</p>
             </td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@
                 <p align="center">snipe</p>
             </td>
             <td>
-                <p align="center">Recupera el último mensaje eliminado.</p>
+                <p align="center">🔻 Recupera el último mensaje eliminado.</p>
             </td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@
                 <p align="center">math</p>
             </td>
             <td>
-                <p align="center">Realiza una operación matemática básica.</p>
+                <p align="center">📱 Realiza una operación matemática básica.</p>
             </td>
         </tr>
 <tr>
@@ -91,7 +91,7 @@
                 <p align="center">jumbo</p>
             </td>
             <td>
-                <p align="center">Ver en grande un emoji.</p>
+                <p align="center">👀 Ver en grande un emoji.</p>
             </td>
         </tr>
         <tr>
@@ -99,7 +99,7 @@
                 <p align="center">poll</p>
             </td>
             <td>
-                <p align="center">Crea una encuesta.</p>
+                <p align="center">📈 Crea una encuesta.</p>
             </td>
         </tr>
         <tr>
@@ -107,7 +107,7 @@
                 <p align="center">conteo</p>
             </td>
             <td>
-                <p align="center">Realiza un conteo regresivo.</p>
+                <p align="center">⏳ Realiza un conteo regresivo.</p>
             </td>
         </tr>
     </table> 

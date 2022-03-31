@@ -18,76 +18,87 @@
         
         <tr>
             <td>
-                <p align="center">Cafetería</p>
+                <p align="center"><b><i>Cafetería</i></b></p>
             </td>
             <td>
-                <p align="center">Bar</p>
+                <p align="center"><b><i>Bar</i></b></p>
             </td>
             <td>
-                <p align="center">Disco</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">cafe</p>
-            </td>
-            <td>
-                <p align="center">cocacola</p>
-            </td>
-            <td>
-                <p align="center">perreo</p>
+                <p align="center"><b><i>Disco</i></b></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">agua</p>
+                <p align="center">☕ café</p>
             </td>
             <td>
-                <p align="center">redbull</p>
+                <p align="center">🥤 cocacola</p>
             </td>
             <td>
-                <p align="center">bachata</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">te</p>
-            </td>
-            <td>
-                <p align="center">cerveza</p>
-            </td>
-            <td>
-                <p align="center">salsa</p>
+                <p align="center">💃 perreo</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">jugo</p>
+                <p align="center">💧 agua</p>
             </td>
             <td>
-                <p align="center">vino</p>
+                <p align="center">🥤 redbull</p>
             </td>
             <td>
-                <p align="center">cumbia</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">tacos</p>
-            </td>
-            <td>
-                <p align="center">tequila</p>
-            </td>
-            <td>
-                <p align="center">colegiala</p>
+                <p align="center">💘 bachata</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">chocolate</p>
+                <p align="center">🍵 te</p>
             </td>
             <td>
-                <p align="center">ron</p>
+                <p align="center">🍺 cerveza</p>
+            </td>
+            <td>
+                <p align="center">👯‍♂️ salsa</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">🧃 jugo</p>
+            </td>
+            <td>
+                <p align="center">🍷 vino</p>
+            </td>
+            <td>
+                <p align="center">🕺 cumbia</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">🌮 tacos</p>
+            </td>
+            <td>
+                <p align="center">🥃 tequila</p>
+            </td>
+            <td>
+                <p align="center">💥 colegiala</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">🍫 chocolate</p>
+            </td>
+            <td>
+                <p align="center">🥃 ron</p>
+            </td>
+            <td rowspan = 5>
+                <p align="center"></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">🍪 galletas</p>
+            </td>
+            <td>
+                <p align="center">🍸 cóctel</p>
             </td>
             <td>
                 <p align="center"></p>
@@ -95,21 +106,10 @@
         </tr>
         <tr>
             <td>
-                <p align="center">galletas</p>
+                <p align="center">🍧 helado</p>
             </td>
             <td>
-                <p align="center">coctel</p>
-            </td>
-            <td>
-                <p align="center"></p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">helado</p>
-            </td>
-            <td>
-                <p align="center">cigarro</p>
+                <p align="center">🚬 cigarro</p>
             </td>
             <td>
                 <p align="center"></p>
@@ -117,10 +117,10 @@
         </tr>
         <tr>
             <td>
-                <p align="center">hamburguesa</p>
+                <p align="center">🍔 hamburguesa</p>
             </td>
             <td>
-                <p align="center">porro</p>
+                <p align="center">🚬 porro</p>
             </td>
             <td>
                 <p align="center"></p>
@@ -128,10 +128,10 @@
         </tr>
         <tr>
             <td>
-                <p align="center">pizza</p>
+                <p align="center">🍕 pizza</p>
             </td>
             <td>
-                <p align="center">huca</p>
+                <p align="center">🔥 huca</p>
             </td>
             <td>
                 <p align="center"></p>
