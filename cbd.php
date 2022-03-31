@@ -89,7 +89,7 @@
             <td>
                 <p align="center">🥃 ron</p>
             </td>
-            <td rowspan = 5>
+            <td rowspan = 4>
                 <p align="center"></p>
             </td>
         </tr>

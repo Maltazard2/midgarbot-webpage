@@ -120,7 +120,7 @@
         </tr>
         <tr>
             <td>
-                <p align="center">cock-fight | cf</p>
+                <p align="center">cock-fight</p>
             </td>
             <td>
                 <p align="center">🐤 Apuesta en las peleas de pollos.</p>
@@ -128,7 +128,7 @@
         </tr>
         <tr>
             <td>
-                <p align="center">slot | slots</p>
+                <p align="center">slot</p>
             </td>
             <td>
                 <p align="center">🎰 Apuesta en el tragamonedas y gana.</p>

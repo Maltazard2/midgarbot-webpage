@@ -35,7 +35,7 @@
             <td>
                 <p align="center">🏓 Comprueba la latencia del bot y de tus mensajes.</p>
             </td>
-            <td rowspan = 3>
+            <td rowspan = 5>
                 <p align="center">@everyone</p>
             </td>
         </tr>
