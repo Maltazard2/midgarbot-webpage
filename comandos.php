@@ -71,7 +71,7 @@
 
                     <ul>
                         <li class="list" style="--clr:#c03d33;">
-                            <a href="#">
+                            <a href="info.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="information-circle"></ion-icon>
                                 </span>
@@ -168,5 +168,6 @@
         <p>Malta's Bot</p>
         <p>Copyright © 2022</p>
     </footer>
+
 </body>
 </html>
