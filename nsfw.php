@@ -23,29 +23,45 @@
         </tr>
         <tr>
             <td>
-                <p align="center">tetas</p>
+                <p align="center">boobs</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">pussy</p>
             </td>
+        </tr>
+        <tr>
             <td>
-                <p align="center">culo</p>
+                <p align="center">ass</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">dick</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">kuni</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">suck</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">fuck</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">anal</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">cum</p>
             </td>

@@ -31,92 +31,150 @@
             <td>
                 <p align="center">cafe</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">cocacola</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">perreo</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">agua</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">redbull</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">bachata</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">te</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">cerveza</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">salsa</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">jugo</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">vino</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">cumbia</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">tacos</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">tequila</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">colegiala</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">chocolate</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">ron</p>
             </td>
+        </tr>
+        <tr>
             <td>
-                <p align="center">D</p>
+                <p align="center"></p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">galletas</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">coctel</p>
             </td>
+        </tr>
+        <tr>
             <td>
-                <p align="center">D</p>
+                <p align="center"></p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">helado</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">cigarro</p>
             </td>
+        </tr>
+        <tr>
             <td>
-                <p align="center">D</p>
+                <p align="center"></p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">hamburguesa</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">porro</p>
             </td>
+        </tr>
+        <tr>
             <td>
-                <p align="center">D</p>
+                <p align="center"></p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">pizza</p>
             </td>
+        </tr>
+        <tr>
             <td>
                 <p align="center">huca</p>
             </td>
+        </tr>
+        <tr>
             <td>
-                <p align="center">D</p>
+                <p align="center"></p>
             </td>
         </tr>
     </table> 

@@ -38,7 +38,7 @@
                                 <span class="text">Utilidad</span>
                             </a>
                         </li>
-                        <li class="list" style="--clr:#070707;">
+                        <li class="list" style="--clr:#242286;">
                             <a href="mod.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="hammer"></ion-icon>
