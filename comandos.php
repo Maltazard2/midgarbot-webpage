@@ -70,14 +70,6 @@
                                 <span class="text">Reacción</span>
                             </a>
                         </li>
-                        <li class="list" style="--clr:#c07116;">
-                            <a href="cbd.php" target=centro>
-                                <span class="icon">
-                                    <ion-icon name="wine"></ion-icon>
-                                </span>
-                                <span class="text">CBD</span>
-                            </a>
-                        </li>
                         <li class="list" style="--clr:#ff1302;">
                             <a href="nsfw.php" target=centro>
                                 <span class="icon">
