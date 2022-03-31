@@ -7,14 +7,13 @@
     <meta name="description" content="Página Web del Bot Midgard">
     <meta name="keywords" content="midgard, maltabot, malta, midgardbot">
     <meta name="authors" content=" Maltazard">
-    <link rel="stylesheet" type="text/css" href="css/stylecomandos.css">
+    <link rel="stylesheet" type="text/css" href="css/stylecontent.css">
 
 </head>
-<body align= "center">
+<body>
 
     <center>
-    <table border = 1 align = center bordercolor = black cellpadding = 10 cellspacing = 0 valign = center>
-
+    <table width = 50% height = 50% >
        <tr align = center bgcolor = gray>
             
             <td align="center">

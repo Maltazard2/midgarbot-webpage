@@ -13,49 +13,44 @@
 <body>
 
 <center>
-    <table width = 50% height = 50% >
+    <table width = 50% height = 50% > 
+        <caption style="--clr:#ff1302;"><b><i>Comandos Exclusivos</i></b></caption>
         
-        <caption style="--clr:#c03d33;"><b><i>Información</i></b></caption>
-         
         <tr>
             <td>
-                <p align="center">Nombre</p>
-            </td>
-            <td>
-                <p align="center">Descripción</p>
-            </td>
-            <td>
-                <p align="center">Permisos</p>
+                <p align="center">NSFW</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">ping</p>
+                <p align="center">tetas</p>
             </td>
             <td>
-                <p align="center">Comprueba la latencia del bot y de tus mensajes.</p>
-            </td>
-            <td rowspan = 3>
-                <p align="center">@everyone</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">stats</p>
+                <p align="center">pussy</p>
             </td>
             <td>
-                <p align="center">Muestra la info y estado del bot.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">server</p>
+                <p align="center">culo</p>
             </td>
             <td>
-                <p align="center">Muestra información del servidor.</p>
+                <p align="center">dick</p>
+            </td>
+            <td>
+                <p align="center">kuni</p>
+            </td>
+            <td>
+                <p align="center">suck</p>
+            </td>
+            <td>
+                <p align="center">fuck</p>
+            </td>
+            <td>
+                <p align="center">anal</p>
+            </td>
+            <td>
+                <p align="center">cum</p>
             </td>
         </tr>
     </table> 
-    </center>
+</center>
 </body>
 </html>

@@ -7,14 +7,15 @@
     <meta name="description" content="Página Web del Bot Midgard">
     <meta name="keywords" content="midgard, maltabot, malta, midgardbot">
     <meta name="authors" content=" Maltazard">
-    <link rel="stylesheet" type="text/css" href="css/stylecomandos.css">
+    <link rel="stylesheet" type="text/css" href="css/stylecontent.css">
 
 </head>
 <body>
 
-    <table style="border: 2px ;border-spacing: 0px;border-color: black;border-style: solid;border-radius: 20px;" align="center" border = 0 align = center width = 50% height = 50% cellpadding = 10 cellspacing = 10>
-       
-        <caption><b><i>Moderación</i></b></caption>
+<center>
+
+    <table width = 50% height = 50% > 
+        <caption style="--clr:#070707;"><b><i>Moderación</i></b></caption>
         
         <tr>
             <td>
@@ -77,6 +78,6 @@
             </td>
         </tr>
     </table> 
-
+</center>
 </body>
 </html>

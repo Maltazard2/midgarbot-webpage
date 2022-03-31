@@ -71,7 +71,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#c07116;">
-                            <a href="mod.php" target=centro>
+                            <a href="cbd.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="wine"></ion-icon>
                                 </span>
@@ -79,7 +79,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#ff1302;">
-                            <a href="mod.php" target=centro>
+                            <a href="nsfw.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="flame"></ion-icon>
                                 </span>
