@@ -26,7 +26,7 @@
                     </tr>
                     <tr>
                         <td align = center>
-                        <h4><a href="">Menú de Comandos</a></h4>
+                        <h4><a href="menu.php">Menú de Comandos</a></h4>
                         </td>
                     </tr>
                     
