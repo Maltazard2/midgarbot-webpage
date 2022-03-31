@@ -26,29 +26,85 @@
         </tr>
         <tr>
             <td>
-                <p align="center">ping</p>
+                <p align="center">user</p>
             </td>
             <td>
-                <p align="center">Comprueba la latencia del bot y de tus mensajes.</p>
+                <p align="center">Muestra información sobre un usuario mencionado.</p>
             </td>
-            <td rowspan = 3>
+            <td rowspan = 10>
                 <p align="center">@everyone</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">stats</p>
+                <p align="center">avatar</p>
             </td>
             <td>
-                <p align="center">Muestra la info y estado del bot.</p>
+                <p align="center">Muestra el avatar de un usuario.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">server</p>
+                <p align="center">banner</p>
             </td>
             <td>
-                <p align="center">Muestra información del servidor.</p>
+                <p align="center">Muestra el banner de un usuario.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">welcome | wlc</p>
+            </td>
+            <td>
+                <p align="center">Muestra un embed de bienvenida.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">remindme | rm</p>
+            </td>
+            <td>
+                <p align="center">Establece un recordatorio.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">snipe</p>
+            </td>
+            <td>
+                <p align="center">Recupera el último mensaje eliminado.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">math</p>
+            </td>
+            <td>
+                <p align="center">Realiza una operación matemática básica.</p>
+            </td>
+        </tr>
+<tr>
+            <td>
+                <p align="center">jumbo</p>
+            </td>
+            <td>
+                <p align="center">Ver en grande un emoji.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">poll</p>
+            </td>
+            <td>
+                <p align="center">Crea una encuesta.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">conteo</p>
+            </td>
+            <td>
+                <p align="center">Realiza un conteo regresivo.</p>
             </td>
         </tr>
     </table> 
