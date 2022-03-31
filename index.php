@@ -45,7 +45,7 @@
                     <li><a>📑 Información</a>
                         
                         <ul>
-                            <li><a href="index.php">🔔 Comandos</a></li>
+                            <li><a href="comandos.php">🔔 Comandos</a></li>
                             <li><a href="index.php">💎 Vip</a></li>
                             <li><a href="index.php">⏳ Novedades</a></li>
                         </ul>
@@ -71,7 +71,7 @@
                     <li><a>💌 Apóyanos</a>
                         
                         <ul>
-                            <li><a href="" target=_blank>💸 Donaciones</a></li>
+                            <li><a href="https://www.patreon.com/midgardbot" target=_blank>💸 Donaciones</a></li>
                         </ul>
                             
                     </li>
