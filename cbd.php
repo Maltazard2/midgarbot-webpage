@@ -89,7 +89,7 @@
             <td>
                 <p align="center">🥃 ron</p>
             </td>
-            <td rowspan = 4>
+            <td rowspan = 5>
                 <p align="center"></p>
             </td>
         </tr>
@@ -100,9 +100,6 @@
             <td>
                 <p align="center">🍸 cóctel</p>
             </td>
-            <td>
-                <p align="center"></p>
-            </td>
         </tr>
         <tr>
             <td>
@@ -110,9 +107,6 @@
             </td>
             <td>
                 <p align="center">🚬 cigarro</p>
-            </td>
-            <td>
-                <p align="center"></p>
             </td>
         </tr>
         <tr>
@@ -122,9 +116,6 @@
             <td>
                 <p align="center">🚬 porro</p>
             </td>
-            <td>
-                <p align="center"></p>
-            </td>
         </tr>
         <tr>
             <td>
@@ -132,9 +123,6 @@
             </td>
             <td>
                 <p align="center">🔥 huca</p>
-            </td>
-            <td>
-                <p align="center"></p>
             </td>
         </tr>
     </table> 
