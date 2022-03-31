@@ -3,7 +3,7 @@
 
     <frame name = "superior" src = "header.php" noresize scrolling = auto>
     
-    <frameset cols = 35%,65%>
+    <frameset cols = 32%,68%>
 
         <frame name = izquierda src = "comandos.php" noresize scrolling = auto>
         <frame name = centro src = "idk.php" noresize scrolling = auto>
