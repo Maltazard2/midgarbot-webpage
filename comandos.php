@@ -55,7 +55,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#c4bb62;">
-                            <a href="mod.php" target=centro>
+                            <a href="diversión.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="happy"></ion-icon>
                                 </span>
