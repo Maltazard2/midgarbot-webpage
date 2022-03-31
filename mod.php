@@ -31,7 +31,7 @@
             <td>
                 <p align="center">Muestra información de un rol mencionado.</p>
             </td>
-            <td rowspan = 5>
+            <td rowspan = 2>
                 <p align="center">@everyone</p>
             </td>
         </tr>
@@ -50,6 +50,9 @@
             <td>
                 <p align="center">Bloquea un canal del servidor.</p>
             </td>
+            <td rowspan = 2>
+                <p align="center">Gestionar Canales</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -65,6 +68,9 @@
             </td>
             <td>
                 <p align="center">Elimina mensajes de un canal.</p>
+            </td>
+            <td>
+                <p align="center">Gestionar Mensajes</p>
             </td>
         </tr>
     </table> 

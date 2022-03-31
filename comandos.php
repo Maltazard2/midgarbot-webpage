@@ -39,7 +39,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#070707;">
-                            <a href="mod.php">
+                            <a href="mod.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="hammer"></ion-icon>
                                 </span>
@@ -47,7 +47,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#28963a;">
-                            <a href="#">
+                            <a href="economia.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="cash"></ion-icon>
                                 </span>
@@ -55,7 +55,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#c4bb62;">
-                            <a href="#">
+                            <a href="mod.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="happy"></ion-icon>
                                 </span>
@@ -63,7 +63,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#b337a2;">
-                            <a href="#">
+                            <a href="mod.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="rocket"></ion-icon>
                                 </span>
@@ -71,7 +71,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#c07116;">
-                            <a href="#">
+                            <a href="mod.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="wine"></ion-icon>
                                 </span>
@@ -79,7 +79,7 @@
                             </a>
                         </li>
                         <li class="list" style="--clr:#ff1302;">
-                            <a href="#">
+                            <a href="mod.php" target=centro>
                                 <span class="icon">
                                     <ion-icon name="flame"></ion-icon>
                                 </span>
