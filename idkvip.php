@@ -17,9 +17,9 @@
        <tr align = center bgcolor = gray>
             
             <td align="center">
-                <p align="center">Bienvenido al menú de mis comandos.</p>
-                <p align="center">Recuerda que todos estos comandos están disponibles para todos los usuarios.</p>
-                <p align="center">Si tienes alguna duda, queja o sugerencia, no dudes en contactarnos.</p>
+                <p align="center">💎 Bienvenido al menú de mis comandos VIP 💎</p>
+                <p align="center">Estos comandos son exclusivos para miembros VIP.</p>
+                <p align="center">No dudes en apoyarnos y así obtener tu suscripción mensual.</p>
             </td>
 
         </tr>

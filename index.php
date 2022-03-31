@@ -46,7 +46,7 @@
                         
                         <ul>
                             <li><a href="menu.php">🔔 Comandos</a></li>
-                            <li><a href="menu.php">💎 Vip</a></li>
+                            <li><a href="menuvip.php">💎 Vip</a></li>
                             <li><a href="index.php">⏳ Novedades</a></li>
                         </ul>
 
