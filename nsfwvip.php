@@ -18,47 +18,47 @@
         
         <tr>
             <td>
-                <p align="center">🤤 suck-boobs</p>
+                <p align="center">🤤 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">😈 suck-balls</p>
+                <p align="center">😈 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">🍆 fap</p>
+                <p align="center">🍆 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">🍑 4k</p>
+                <p align="center">🍑 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">🤠 cowgirl</p>
+                <p align="center">🤠 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">🤭 porno</p>
+                <p align="center">🤭 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">😎 bdsm</p>
+                <p align="center">😎 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">😉 hd</p>
+                <p align="center">😉 -----</p>
             </td>
         </tr>
         <tr>
             <td>
-                <p align="center">💦 gonewild</p>
+                <p align="center">💦 -----</p>
             </td>
         </tr>
     </table> 
